@@ -3,23 +3,26 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "前端晓航"
+  text: "爱折腾的攻城狮"
+  tagline: 人生没有Ctrl+Z，Debug即进步
+  image: 
+    src: /logo.jpg
+    alt: XiaoHang
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 认识一下
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: GitHub
+      link: https://github.com/zyh940305858/zyh940305858.github.io
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 00后
+    details:
+  - title: B站技术分享UP主
+    details:
+  - title: 独立开发者
+    details:
 ---
 
