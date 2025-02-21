@@ -25,6 +25,10 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/zyh940305858/zyh940305858.github.io' }
-    ]
+    ],
+    footer: {
+      message: '基于 MIT 许可发布',
+      copyright: '版权所有 © 2025 前端晓航'
+    }
   }
 })
